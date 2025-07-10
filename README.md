@@ -44,6 +44,8 @@ PAKs Folder = "Caminho para os arquivos PAK do VALORANT."
 * Twitter: [@ogulcantokar](https://twitter.com/ogulcantokar)
 * Discord: [Entre no meu Discord](https://discord.gg/ianas)
 
+* BAIXE O PIANA CLICANDO EM "RELEASES AO LADO"
+
 ## Créditos
 
 - floxay
